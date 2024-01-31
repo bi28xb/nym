@@ -13,7 +13,7 @@ map.addLayer(layer);
 
 
 const marker = L.marker([40.75703,-73.98597]).addTo(map)
-		.bindPopup('<b>Time Square</b><br />Famous for new year celebrations.');
+		.bindPopup('<b>Scotiabank Centre</b><br />Famous stadium also known as metro centre.');
 
 const marker2 = L.marker([40.74214, -73.98807]).addTo(map)
     .bindPopup('<b>Madison Square Park</b><br />A great park to walk around.');
